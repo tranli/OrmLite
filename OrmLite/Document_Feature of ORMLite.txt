@@ -1,0 +1,12 @@
+1.Setup your classes by simply adding Java annotations.
+2.Powerful abstract Database Access Object (DAO) classes.
+3.Flexible QueryBuilder to easily construct simple and complex queries.
+4.Supports MySQL, Postgres, Microsoft SQL Server, H2, Derby, HSQLDB, and Sqlite and can be extended to additional databases relatively easily.
+5.Provisional support for DB2, Oracle, ODBC, and Netezza. Contact the author if your database type is not supported.
+6.Handles "compiled" SQL statements for repetitive query tasks.
+7.Supports "foreign" objects with the class field being the object but an id stored in the database table.
+8.Basic support for database transactions.
+9.Auto generates SQL to create and drop database tables.
+10.Spring configuration support for DOAs and class configurations.
+11.Support for configuring of tables and fields without annotations.
+12.Supports native calls to Android SQLite database APIs
